@@ -20,4 +20,4 @@
 
 * * *
 
-<img width="" height="" src="./png/디디.jpg></img>
+<img width="" height="" src="./png/maxresdefault.jpg"></img>
