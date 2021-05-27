@@ -9,7 +9,7 @@ void timeout(int sig)
 
 	alarm(2);
 }
-void kecontrol(int sig)
+void keycontrol(int sig)
 {
 	if(sig==SIGINT)
 		puts("CTRL+C pressed");
